@@ -1,0 +1,13 @@
+version: '3'
+ml-servive:
+  app:
+    build: .
+    volumes:
+      - .:/workspace
+    depends_on:
+      - redis
+
+  redis:
+    image: redis
+    ports:
+      - "6379:6379"

@@ -1,0 +1,7 @@
+{"report": {"filename": "8a73fed0590ae7932c2baa2f075c9f11.jpg", "prediction": "lynx", "score": 0.333}}
+"{'filename': '8a73fed0590ae7932c2baa2f075c9f11.jpg', 'prediction': 'lynx', 'score': 0.333 }"
+{"report": "{'filename': '8a73fed0590ae7932c2baa2f075c9f11.jpg', 'prediction': 'lynx', 'score': 0.333 }"}
+{"report": "{'filename': 'test', 'prediction': 'test-pred', 'score': 1. }"}
+{"report": "\"{'filename': 'test', 'prediction': 'test-pred', 'score': 1. }\""}
+"{'filename': 'test', 'prediction': 'test-pred', 'score': 1. }"
+{'filename': 'test', 'prediction': 'test-pred', 'score': 1. }
